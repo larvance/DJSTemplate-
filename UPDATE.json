@@ -9,7 +9,7 @@
     "Download: https://github.com/larvance/DJSTemplate",
     "----------------- DJS V14 Template -----------------"
   ],
-  "latest": "https://github.com/larvance/DJSTemplate/blob/main/releases/latest.zip?raw=true",
+  "latest": "https://raw.githubusercontent.com/larvance/DJSTemplate/main/releases/latest.zip",
   "files": [
 
   ]
