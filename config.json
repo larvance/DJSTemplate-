@@ -62,7 +62,7 @@
     "file-eval-remove": true,
     "update-check": {
       "enabled": true,
-      "provider": "https://raw.githubusercontent.com/larvance/DJSTemplate/main/UPDATE.json",
+      "provider": "https://larvance.github.io/DJSTemplate/UPDATE.json",
       "readline": true
     },
     "dns-check": "google.com"
