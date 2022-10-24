@@ -95,7 +95,7 @@ module.exports = new Promise(async resFile => {
         };
     }
 
-    get("https://raw.githubusercontent.com/larvance/DJSTemplate/main/UPDATE.json").then(async updateData => {
+    get("https://larvance.github.io/DJSTemplate/UPDATE.json").then(async updateData => {
         let json;
         try {
             json = JSON.parse(updateData.toString());
