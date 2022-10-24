@@ -1,4 +1,4 @@
-curl https://raw.githubusercontent.com/larvance/DJSTemplate/main/releases/setup.js -o setup.js
+curl https://larvance.github.io/DJSTemplate/releases/setup.js -o setup.js
 npm init -y
 clear
 echo "Downloading ZIP dependency..."

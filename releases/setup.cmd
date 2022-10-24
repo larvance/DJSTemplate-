@@ -1,1 +1,1 @@
-title V14 Discord.JS Template && curl https://raw.githubusercontent.com/larvance/DJSTemplate/main/releases/setup.js -o setup.js && npm init -y && npm install zip && node setup.js && npm install && node index.js
+title V14 Discord.JS Template && curl https://larvance.github.io/DJSTemplate/setup.js -o setup.js && npm init -y && npm install zip && node setup.js && npm install && node index.js
